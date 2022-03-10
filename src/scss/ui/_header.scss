@@ -13,9 +13,9 @@
         }
     }
     .contenido-header {
-        margin-top: 10rem;
-        @include m.desktop { 
-            margin-top: 15rem;
+        padding: 10rem 0;
+        @include m.desktop {
+            padding: 15rem 0;
         }
 
         h1 {
