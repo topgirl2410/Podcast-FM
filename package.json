@@ -1,0 +1,19 @@
+{
+  "name": "podcast-fm",
+  "version": "1.0.0",
+  "description": "PodCast Fm con Gulp Y BEM;",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topgirl2410/Podcast-FM.git"
+  },
+  "author": "Maria Leonor Pinto Sabater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topgirl2410/Podcast-FM/issues"
+  },
+  "homepage": "https://github.com/topgirl2410/Podcast-FM#readme"
+}
