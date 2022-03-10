@@ -27,6 +27,7 @@
         "gulp-sourcemaps": "^3.0.0",
         "gulp-webp": "^4.0.1",
         "post": "0.0.1",
+        "postcss": "^8.4.8",
         "sass": "^1.49.9"
     },
     "devDependencies": {

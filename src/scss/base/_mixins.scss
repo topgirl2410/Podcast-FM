@@ -48,3 +48,12 @@
     gap: $espaciado;
     grid-template-columns: repeat($columnas, 1fr);
 }
+
+// Imagen de fondo
+
+@mixin bgImage($url, $colorDegradado) {
+    background-image: linear-gradient($colorDegradado 0%, $colorDegradado 100%), url($url);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center center;
+}
