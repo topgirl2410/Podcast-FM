@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/topgirl2410/Podcast-FM/issues"
   },
-  "homepage": "https://github.com/topgirl2410/Podcast-FM#readme"
+  "homepage": "https://github.com/topgirl2410/Podcast-FM#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "cssnano": "^5.1.1",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.0.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0"
+  },
+  "devDependencies": {
+    "gulp-imagemin": "^7.0.0"
+  }
 }
