@@ -13,12 +13,16 @@
 
     .contenido-beneficios {
         grid-column: 1 / 4;
+
+        h2 {
+            @include m.headingBorder(v.$secundario, v.$blanco);
+        }
     }
 
     .imagen {
         grid-column: 4 / 6;
         transition-property: transform;
-        transition-duration: .3s;
+        transition-duration: 0.3s;
 
         &:hover {
             transform: rotate(8deg) scale(1.1);
